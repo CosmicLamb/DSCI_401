@@ -1,1 +1,1 @@
-# DSCI_401
+# DSCI_401: Applied Machine Learning
